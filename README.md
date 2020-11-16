@@ -3,6 +3,11 @@
 SPA which manage restaurant orders, delivery and products\
 Made with Vue.js, Firebase and Quasar framework
 
+## Demo
+[https://jessk77.github.io/delivery-spa/](https://jessk77.github.io/delivery-spa/) \
+email: contacto@atomikod.com
+pass: testDeliver
+
 ## Install the dependencies
 ```bash
 npm install
